@@ -1,0 +1,12 @@
+.countries li{
+	margin-bottom: 6px;
+}
+.countries button {
+	border-radius: 6px;
+	cursor: pointer;
+	transition: all 0.5 ease;
+}
+
+.countries button:hover {
+  background-color: #ddd;
+}
